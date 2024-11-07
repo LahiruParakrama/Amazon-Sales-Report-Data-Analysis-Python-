@@ -28,11 +28,11 @@ The main objective is understanding about buying cloths through Amazon and relat
 
 •_**Python Libraries:**_ 
 
-      ➤<b>Numpy </b>for efficient numerical computations.
+      ➤_Numpy_ for efficient numerical computations.
       
-      ➤<b>Pandas </b>for data manipulation and transformation, such as handling null values, merging, grouping, and reshaping data.
+      ➤_Pandas_ for data manipulation and transformation, such as handling null values, merging, grouping, and reshaping data.
       
-      ➤<b>Matplotlib </b>and <b>Seaborn </b>for data visualization, offering flexibility for plotting complex relationships and distributions.
+      ➤_Matplotlib_ and _Seaborn_ for data visualization, offering flexibility for plotting complex relationships and distributions.
 
 •_**Version Control:**_ <b>Git </b>and <b>Github </b>were used to manage version control and project collaboration. GitHub helped in maintaining project history, tracking changes over time, and securely storing code and documentation.
 
