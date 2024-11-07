@@ -26,9 +26,7 @@ The main objective is understanding about buying cloths through Amazon and relat
 
 ## Tools and Techniques
 
-•_**Python Libraries:**_ 
-
-      - Numpy for efficient numerical computations.
+•_**Python Libraries:**_ - Numpy for efficient numerical computations.
       
       - Pandas for data manipulation and transformation, such as handling null values, merging, grouping, and reshaping data.
       
