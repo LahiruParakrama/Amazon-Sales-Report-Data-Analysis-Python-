@@ -28,7 +28,7 @@ The main objective is understanding about buying cloths through Amazon and relat
 
 •_**Python Libraries:**_ 
 
-      ➤_Numpy_ for efficient numerical computations.
+      ➤**Numpy** for efficient numerical computations.
       
       ➤_Pandas_ for data manipulation and transformation, such as handling null values, merging, grouping, and reshaping data.
       
