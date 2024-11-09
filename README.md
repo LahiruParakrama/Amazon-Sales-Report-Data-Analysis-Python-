@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The main objective is understanding about buying cloths through Amazon and related states in India. And categorize them under Best sizes, Courier status, B2B or retails, Best buyers states and more details for best understanding.
+The main objective is understanding about buying cloths through Amazon that related states in India. And categorize them under Best sizes, Courier status, B2B or retails, Best buyers states and more details for best understanding.
 
 ## Objectives
 
